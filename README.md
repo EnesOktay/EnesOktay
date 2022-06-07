@@ -1,4 +1,4 @@
- <STRONG> <center> 👋 Hi, I’m Enes Oktay </center> </STRONG>
+                                                      <STRONG> <b> 👋 Hi, I’m Enes </b> </STRONG>
 - 👀 I’m interested in Cyber Security,Php,Html,Css,C,MySql,MsSql
 - 💞️ I’m looking to collaborate on Cyber Security,C and Php
 - 📫 How to reach me :
