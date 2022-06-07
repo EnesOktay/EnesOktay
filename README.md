@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security,C and Php
 - 📫 How to reach me :
 
-<span style=”font-size: 30px;”><b>Technologies:</b></span>
+<font size=”15″><b>Technologies:</b></font>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
