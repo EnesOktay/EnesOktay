@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EnesOktay
-- 👀 I’m interested in Cyber Security,Php,C,MySql,MsSql
+- 👀 I’m interested in Cyber Security,Php,Html,Css,C,MySql,MsSql
 - 🌱 I’m currently learning C#,Java
 - 💞️ I’m looking to collaborate on Cyber Security,C and Php
 - 📫 How to reach me via LinkedIn : https://www.linkedin.com/in/enes-oktay/
