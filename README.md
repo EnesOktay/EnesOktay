@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on Cyber Security,C and Php
 - 📫 How to reach me via LinkedIn : https://www.linkedin.com/in/enes-oktay/
 
-
-  [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/EnesOktay) 
-  [![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enes-oktay)
+  <center><p>[![LinkedIn badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/enes-oktay)</p></center>
   
 
 <!---
