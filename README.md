@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security,Php,Html,Css,C,MySql,MsSql
 - 🌱 I’m currently learning C#,Java
 - 💞️ I’m looking to collaborate on Cyber Security,C and Php
-- 📫 How to reach me :![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(www.linkedin.com/in/enes-oktay)
+- 📫 How to reach me :
 
 
 <!---
